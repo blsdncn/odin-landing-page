@@ -96,7 +96,7 @@ footer,
 .mainimage{
   max-width:500px;
   border-radius: 5px;
-  box-shadow: 5px 5px 5px;
+  box-shadow: 2px 2px 5px;
 }
 
 .herotext {
